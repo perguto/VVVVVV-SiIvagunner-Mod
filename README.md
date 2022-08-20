@@ -1,5 +1,7 @@
 # VVVVVV SiIvagunner Mod
 
+![](./cover.png)
+
 This mod adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to VVVVVV.
 
 ## How to Install
