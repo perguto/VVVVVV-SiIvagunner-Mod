@@ -16,4 +16,4 @@ Enjoy! You should hear the high-quality music right on the title menu.
 
 If the File extensions don't show up, you have to set this checkmark in Windows Explorer:
 
-!{}(./explorer_show_file_name_extensions.png)
+![](./explorer_show_file_name_extensions.png)
