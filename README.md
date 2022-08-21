@@ -2,7 +2,7 @@
 
 ![](./cover.png)
 
-This mod adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to VVVVVV.
+This mod adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to VVVVVV. Works both with the commercial and the [free](https://thelettervsixtim.es/makeandplay/) version.
 
 ## How to Install
 
