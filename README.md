@@ -6,16 +6,9 @@ This mod adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to 
 
 ## How to Install
 
-1. Open your VVVVVV game folder and unzip `data.zip` into a new folder.
-2. (Make sure you have activated `Show filename extensions` in Windows Explorer.) Rename `data.zip` (e. g. to `data_original.zip`) and name the folder you have unzipped in step 1 `data.zip` (the game will only be able to find the assets if the folder has this exact name.)
-3. Open this new `data.zip` folder and rename the file `vvvvvvmusic.vvv` (e. g. to `vvvvvvmusic_original.vvv`) as well as the file `souleyeminijingle.wav` in the `sounds` folder and `sprites.png` in the `graphics` folder.
-4. Download [the latest release](https://github.com/perguto/VVVVVV-SiIvagunner-Mod/releases), unzip it and drag `data.zip` folder of the mod into your VVVVV folder so that it gets merged with the `data.zip` folder of the game. If you did everything right, your folder should look like this: 
+1. Find VVVVVV's customization folder. The easiest way to do this is to open the game go to "levels", then select "open level folder", and go up one subfolder to VVVVVV/ (this folder should be `%USERPROFILE%\Documents\VVVVVV\` on Windows). 
+2. Download [the latest release](https://github.com/perguto/VVVVVV-SiIvagunner-Mod/releases), unzip it and unzip the `data.zip` folder into the `VVVVVV` directory. If you did everything right, your folder should look like this:
+   
+![image](https://github.com/perguto/VVVVVV-SiIvagunner-Mod/assets/103294508/abbf73e9-4113-40d7-8321-f138b4eda078)
 
-![](./data.zip_screenshot.png)
-5. Put the file
-
-Enjoy! You should hear the high-quality music right on the title menu. 
-
-If the File extensions don't show up, you have to set this checkmark in Windows Explorer:
-
-![](./explorer_show_file_name_extensions.png)
+If you did everything right, you should be greeted by some high quality music in the first 10 seconds of starting the game :]
